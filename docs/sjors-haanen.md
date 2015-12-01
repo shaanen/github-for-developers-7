@@ -4,7 +4,7 @@ Sjors
 Haanen
 leuk
 #BobRoss
-rose
+ofja toch blauw
 
 #KAPPA
 #closes issue 5
